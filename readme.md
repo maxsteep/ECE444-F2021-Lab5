@@ -1,3 +1,7 @@
+# Maxim Stepanov
+## This repo is a clone of the https://github.com/nelaturuk/education_pathways repository
+
+
 # CARTE Education Pathways
 
 ## Description
