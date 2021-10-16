@@ -1,6 +1,22 @@
 # Maxim Stepanov
 ## This repo is a clone of the https://github.com/nelaturuk/education_pathways repository
 
+# Activity 1
+
+![activity1Proof](https://github.com/maxsteep/ECE444-F2021-Lab5/blob/main/activity1Proof.png?raw=true)
+
+# Activity 2-5
+
+![activity2Proof](https://github.com/maxsteep/ECE444-F2021-Lab5/blob/main/homePage1.png?raw=true)
+![activity3Proof](https://github.com/maxsteep/ECE444-F2021-Lab5/blob/main/homePage2.png?raw=true)
+![activity4Proof](https://github.com/maxsteep/ECE444-F2021-Lab5/blob/main/resultsPageForm.png?raw=true)
+![activity5Proof](https://github.com/maxsteep/ECE444-F2021-Lab5/blob/main/resultsPageResultsTable.png?raw=true)
+
+# Activity 6
+The re-design features both improved and non-optimal changes to the design. The one particular comparison to be drawn is the much-improved design of the 'common-page-form' search control module.
+The judicious element spacing, presentation, and the overall layout of the serach module is improved in terms of user friendliness and colour design.
+The new design uses colour scheme and element highlighting to aid visual navigation of the module and improve upon the rapidity of the interaction for the end users.
+
 
 # CARTE Education Pathways
 
